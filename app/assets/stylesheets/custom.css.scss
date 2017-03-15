@@ -20,4 +20,16 @@ $navbar-default-bg: #073B15;
 
 .center {
   text-align: center;
+  color: #fff;
+}
+
+.jumbotron {
+  background-image: asset-url('cover_photo.jpg');
+  background-size: cover;
+  height: 300px;
+}
+
+.footer {
+  margin-top: 130px;
+  border-top: 1px solid;
 }
